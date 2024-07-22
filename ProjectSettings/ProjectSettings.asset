@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: a0f5a7c6aa714dd4bad4323f61f641f3
+  productGUID: 7670d07cb50bfa444a8557a7bfd8dce0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Reassessment 1 and 2
+  productName: Reassessment-mini-games
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -627,14 +627,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Reassessment 1 and 2
+  metroPackageName: Reassessment-mini-games
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Reassessment 1 and 2
+  metroApplicationDescription: Reassessment-mini-games
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -702,10 +702,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1e7d72c0-fe82-49ec-8017-f490ca281c71
+  cloudProjectId: 29b75519-e9c0-4fed-b1fb-42c88ac5852c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Reassessment 1 and 2
+  projectName: Reassessment-mini-games
   organizationId: discrestion
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
